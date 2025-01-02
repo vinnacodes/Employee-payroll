@@ -87,12 +87,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Spring Guide Github Repo: https://github.com/spring-guides/tut-rest.
 
 
-## 7. Original Creator:
-
-Author:  SPRING by VMware Tanzu
-
-Tutorial Name: "Building REST services with Spring"
-
 Spring URL: https://spring.io/guides/tutorials/rest/
  
 Github Project Name: Building REST Services with Spring
